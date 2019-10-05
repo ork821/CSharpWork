@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresOfFigures", "SquaresOfFigures\SquaresOfFigures.csproj", "{0E81E90C-F5D5-4BC4-8D20-F95380205E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresTests", "SquaresTests\SquaresTests.csproj", "{6DCE3D17-20E5-4EE7-AD7D-A87BD46BD524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E81E90C-F5D5-4BC4-8D20-F95380205E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E81E90C-F5D5-4BC4-8D20-F95380205E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E81E90C-F5D5-4BC4-8D20-F95380205E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E81E90C-F5D5-4BC4-8D20-F95380205E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCE3D17-20E5-4EE7-AD7D-A87BD46BD524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCE3D17-20E5-4EE7-AD7D-A87BD46BD524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCE3D17-20E5-4EE7-AD7D-A87BD46BD524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCE3D17-20E5-4EE7-AD7D-A87BD46BD524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
